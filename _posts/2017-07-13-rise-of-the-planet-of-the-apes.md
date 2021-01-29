@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Thoughts On Rise of the Planet of the Apes (2011)"
-subtitle: 
+title: "My Thoughts on Rise of the Planet of the Apes (2011)"
+subtitle:
 tags: [movies]
 ---
 
@@ -18,7 +18,7 @@ Rotten Tomatoes Score: 81
 
 My Score: 8
 
-Rise of the Planet of the Apes is the first movie of the new, rebooted Planet of the Apes trilogy, and it honestly seemed to come out of nowhere. Despite having a very simple premise (apes start taking over the world), the Planet of the Apes franchise has always evoked deep thought into human behavior and questioned our perspectives of society. This movie in particular tackles multiple issues, addressing concepts such as freedom as well as questioning the moralities behind genetic engineering and animal drug testing.
+_Rise of the Planet of the Apes_ is the first movie of the new, rebooted Planet of the Apes trilogy, and it honestly seemed to come out of nowhere. Despite having a very simple premise (apes start taking over the world), the Planet of the Apes franchise has always evoked deep thought into human behavior and questioned our perspectives of society. This movie in particular tackles multiple issues, addressing concepts such as freedom as well as questioning the moralities behind genetic engineering and animal drug testing.
 
 I really enjoyed this movie. The story flowed so fluently and gracefully. We as the audience are so easily able to connect with how lonely and constrained Caesar feels throughout the course of the movie. Caesar hits a soft part in our hearts, and we are all rooting for his big escape: from his plan to become the new alpha in the primate shelter where he is locked, all the way to his eventual battle with humans on the Golden State Bridge for his species’ freedom. The majority of humans (except Franco, his girlfriend, and his father) are portrayed as evil in this movie, and we have no problem completely flipping our traditional perspectives in order to root for the apes.
 
@@ -30,10 +30,10 @@ These two things, acting and cinematography, is what carried the film for me. Ov
 
 There are a few gripes I have with this film, even though they are extremely small. The first plot hole I had a little trouble comprehending was Caesar’s random ability to pick locks out of his cell. In addition, once he escaped, there was no security in the shelter at all, so Caesar could even go home to steal the canisters of ALZ-113, which seemed a little bit too unrealistic. Also, how did Caesar even know that ALZ-113 was in Franco’s possession, let alone existed? After all, he had only been treated, and seen, ALZ-112 before he was locked up. And how is Franco so easily able to smuggle out drugs?
 
-Second, the pacing of this film seems a little slow at first, but picks up so quickly at the end that it certainly surprised me. The reason for this is because of the film exaggerating the sheer number of apes as they start to gather together. At first, we only see around 20 apes in the shelter, but by the time the apes escape, there seem to be dozens of them. By the time the apes arrive on the bridge, there are already hundreds of apes. 
+Second, the pacing of this film seems a little slow at first, but picks up so quickly at the end that it certainly surprised me. The reason for this is because of the film exaggerating the sheer number of apes as they start to gather together. At first, we only see around 20 apes in the shelter, but by the time the apes escape, there seem to be dozens of them. By the time the apes arrive on the bridge, there are already hundreds of apes.
 
 My third and final problem with this film is how it chooses certain apes to be “smart” in order to progress the film. In particular, in order to make the plot work out, Maurice (the orangutan), Rocket, and the gorilla all seemed to be already pretty smart when Caesar meets them, despite not receiving ALZ-113, whereas all of the other apes were much dumber.
 
-Overall, despite having a very simple plot, Rise of the Planet of the Apes is nonetheless an amazing movie, supported by its incredible actors and stunning cinematography. This film is not for everybody (some people just aren’t able to appreciate the emotions of the characters and just take the plot at face-value, which greatly diminishes its effect), but I still recommend this movie to many.
+Overall, despite having a very simple plot, _Rise of the Planet of the Apes_ is nonetheless an amazing movie, supported by its incredible actors and stunning cinematography. This film is not for everybody (some people just aren’t able to appreciate the emotions of the characters and just take the plot at face-value, which greatly diminishes its effect), but I still recommend this movie to many.
 
 Date Reviewed: 07/13/2017
