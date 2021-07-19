@@ -1,4 +1,4 @@
-# Raymond's Parchment
+# Raymond Guo
 
 My blog on miscellaneous things, primary movies.
 
